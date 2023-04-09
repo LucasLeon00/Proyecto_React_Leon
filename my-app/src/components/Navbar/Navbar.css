@@ -8,7 +8,7 @@
     display: flex;
     justify-content: space-between;
     height: 15vh;
-    background-color: black;
+    background-color: rgb(33, 31, 31);
 }
 
 .navbar-logo{
@@ -19,11 +19,16 @@
     cursor: pointer;
 }
 
+.navbar a {
+    text-decoration: none;
+}
+
 .seeCarrito{
     font-size: 25px;
     margin-right: 20px;
     margin-top: 4vh;
     cursor: pointer;
     text-decoration: none;
+    color: rgb(255, 254, 254);
 }
 
