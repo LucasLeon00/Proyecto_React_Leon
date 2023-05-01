@@ -10,6 +10,27 @@
     margin: 15px;
 }
 
+.card h3{
+    color: rgb(133, 12, 12);
+    font-style:italic;
+    font-size: 155%;
+    font-weight: bold;
+}
+
+.card h4{
+    color: rgb(245, 221, 221);
+    font-style:normal;
+    font-size: 125%;
+    font-weight: bold;
+}
+
+.card h5{
+    color: rgb(28, 26, 26);
+    font-style:normal;
+    font-size: 110%;
+    font-weight: bold;
+}
+
 .card button {
     border: none;
     outline: 0;

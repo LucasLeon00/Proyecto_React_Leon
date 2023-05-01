@@ -1,6 +1,6 @@
 .banner {
     background-size: cover;
-    background-position: center;
+    background-position:center;
     height: 100vh;
 
     background-image: linear-gradient(rgba(0,0,0,0),rgba(0,0,0,0.4)), url("../Banner/fondo-pag2.jpg");

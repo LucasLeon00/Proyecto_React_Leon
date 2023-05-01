@@ -4,27 +4,31 @@
         "name": "Tejidos a Crochet",
         "price": 2500,
         "img": "../imagen6.jpg",
-        "quanty": 1
+        "quanty": 1,
+        "description": "Variados tejidos a mano, diseños diferentes y personalizados a gusto"
     },
     {
         "id": 2,
         "name": "Amigurumis",
         "price": 2000,
         "img": "../tejidos.jpg", 
-        "quanty": 1
+        "quanty": 1,
+        "description": "Hermosos muñecos y figuras para todas las edades y gustos!"
     },
     {
         "id": 3,
         "name": "Agujas",
         "price": 400,
-        "img": "../imagen3.jpg",
-        "quanty": 1 
+        "img": "../imagen.jpg",
+        "quanty": 1,
+        "description": "Agujas de todos los tamaños y variedades para que puedas trabajar y desarrollarte segun tu necesidad"
     },
     {
         "id": 4,
         "name": "Lana x 100g",
         "price": 450,
         "img": "../imagen4.jpg",
-        "quanty": 1 
+        "quanty": 1,
+        "description": "Madejas de todos los colores y numerosos tipos de texturas para que hagas unicas a todas tus creaciones"
     }
 ]
